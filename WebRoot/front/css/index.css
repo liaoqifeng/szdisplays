@@ -1,0 +1,54 @@
+html,body{
+	background:#000000;
+}
+a{
+	color: #ffffff;
+}
+.container{
+	width: 1000px;
+	height: 100%;
+	margin: 0 auto;
+	color: #ffffff;
+}
+.container .nav{
+	float: left;
+	width: 20%;
+	height: 100%;
+	background-color: red;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
+.container .box_1{
+	background: url(../images/bg_1.jpg) no-repeat 100% 100%;
+}
+.container .box_2{
+	background: url(../images/bg_2.jpg) no-repeat 100% 100%;
+}
+.container .box_3{
+	background: url(../images/bg_3.jpg) no-repeat 100% 100%;
+}
+.container .box_4{
+	background: url(../images/bg_4.jpg) no-repeat 100% 100%;
+}
+.container .box_5{
+	background: url(../images/bg_5.jpg) no-repeat 100% 100%;
+}
+.container .nav h4{
+	font-size: 18px;
+}
+.container .menu{
+	margin-top: 40px;
+	margin-left: 50px;
+	font-size: 16px;
+	text-align: left;
+}
+.container .menu ul{
+	padding-left: 10px;
+	font-size: 14px;
+}
+.container .menu ul li{
+	height: 25px;
+	line-height: 25px;
+}
+	

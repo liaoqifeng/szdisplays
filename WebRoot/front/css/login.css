@@ -1,0 +1,55 @@
+html,body{
+	background:#000000;
+}
+a{
+	color: #ffffff;
+}
+.container{
+	width: 1000px;
+	height: 100%;
+	margin: 0 auto;
+	color: #ffffff;
+	background: url(../images/login_bg.jpg);
+}
+.container .logo{
+	width: 232px;
+	height: 93px;
+	background: url(../images/login_logo.png) no-repeat;
+	background-position-y: 80px;
+	margin: 0 auto;
+	padding-top: 80px;
+}
+.container .main{
+	width: 413px;
+	height: 232px;
+	background: url(../images/login_box.png) no-repeat;
+	margin: 0 auto;
+	margin-top: 50px;
+}
+.container .form{
+	margin-left: 240px;
+	padding-top: 68px;
+}
+.container .form li{
+	height: 33px;
+	line-height: 33px;
+}
+.container .form input{
+	width: 140px;
+	height: 25px;
+}
+.container .form .submit{
+	width: 58px;
+	height: 24px;
+	border: 0;
+	background: url(../images/login_btn.jpg);
+	outline: none;
+}
+.container .form .captcha{
+	width: 70px;
+}
+.container .form .captchaImage{
+	width: 65px;
+	height:25px;
+	vertical-align: middle;
+}

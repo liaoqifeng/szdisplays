@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+/**
+ * 
+ * 缓存配置
+ * @author koch 
+ * @date 2014年7月2日
+ * 
+ */ -->
+<ehcache xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://ehcache.org/ehcache.xsd">  
+      
+    <diskStore path="java.io.tmpdir" />   
+      
+    <defaultCache maxElementsInMemory="3000" eternal="false" timeToIdleSeconds="3600" timeToLiveSeconds="3600" overflowToDisk="true" diskPersistent="false" diskExpiryThreadIntervalSeconds="100" memoryStoreEvictionPolicy="LRU" />  
+    <cache name="auth" maxElementsInMemory="100" eternal="true" overflowToDisk="true" />
+    <cache name="setting" maxElementsInMemory="100" eternal="true" overflowToDisk="true" />
+    <cache name="promotion" maxElementsInMemory="100" eternal="true" overflowToDisk="true" />
+    <cache name="area" maxElementsInMemory="100" eternal="true" overflowToDisk="true" />
+    <cache name="gradeCache" maxElementsInMemory="100" eternal="true" overflowToDisk="true" />
+    <cache name="productCategory" maxElementsInMemory="100" eternal="true" overflowToDisk="true"/>
+    <cache name="productParameter" maxElementsInMemory="100" eternal="true" overflowToDisk="true"/>
+    <cache name="articleCategory" maxElementsInMemory="100" eternal="true" overflowToDisk="true"/>
+
+</ehcache>

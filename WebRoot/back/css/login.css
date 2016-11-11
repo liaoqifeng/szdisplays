@@ -1,0 +1,305 @@
+html {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor;
+}
+body {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor;
+}
+div {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor;
+}
+span {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor;
+}
+applet {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor;
+}
+object {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor;
+}
+iframe {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor;
+}
+h1 {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor;
+}
+h2 {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor;
+}
+h3 {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor;
+}
+h4 {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor;
+}
+h5 {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor;
+}
+h6 {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor;
+}
+p {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor;
+}
+blockquote {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor;
+}
+pre {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor;
+}
+a {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor;
+}
+abbr {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor;
+}
+acronym {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor;
+}
+address {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor;
+}
+big {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor;
+}
+cite {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor;
+}
+code {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor;
+}
+del {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor;
+}
+dfn {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor;
+}
+em {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor;
+}
+font {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor;
+}
+img {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor;
+}
+ins {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor;
+}
+kbd {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor;
+}
+q {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor;
+}
+s {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor;
+}
+samp {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor;
+}
+small {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor;
+}
+strike {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor;
+}
+strong {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor;
+}
+sub {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor;
+}
+sup {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor;
+}
+tt {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor;
+}
+var {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor;
+}
+dd {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor;
+}
+dl {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor;
+}
+dt {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor;
+}
+li {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor;
+}
+ol {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor;
+}
+ul {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor;
+}
+fieldset {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor;
+}
+form {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor;
+}
+label {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor;
+}
+legend {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor;
+}
+table {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor;
+}
+caption {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor;
+}
+tbody {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor;
+}
+tfoot {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor;
+}
+thead {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor;
+}
+tr {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor;
+}
+th {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor;
+}
+td {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor;
+}
+html {
+	-ms-text-size-adjust: none; _width: 100%; _height: 100%; -webkit-text-size-adjust: none;
+}
+body {
+	font: 12px/normal tahoma, Arial, Verdana, sans-serif; color: rgb(102,102,102); min-width: 700px; font-size-adjust: none; font-stretch: normal; background-color: rgb(255, 255, 255); _width: 100%; _height: 100%; _background-attachment: fixed;
+}
+a {
+	color: rgb(102, 102, 102); text-decoration: none;
+}
+a:hover {
+	color: rgb(255, 102, 0); text-decoration: none;
+}
+img {
+	vertical-align: middle; -ms-interpolation-mode: bicubic; image-rendering: optimizeQuality;
+}
+table {
+	border-collapse: collapse; border-spacing: 0px;
+}
+ul {
+	list-style-type: none;
+}
+input {
+	vertical-align: middle;
+}
+input.text {
+	border-width: 1px; border-style: solid; border-color: rgb(116, 185, 239); padding: 0px 4px; border-radius: 2px; width: 180px; height: 24px; color: rgb(102, 102, 102); line-height: 24px; box-shadow: inset 0px 1px 2px rgba(0,0,0,0.1); -webkit-box-shadow: inset 0px 1px 2px rgba(0, 0, 0, 0.1); -moz-box-shadow: inset 0px 1px 2px rgba(0, 0, 0, 0.1); -webkit-border-radius: 2px; -moz-border-radius: 2px;
+}
+input.text:hover {
+	border: 1px solid rgb(116, 185, 239); box-shadow: inset 0px 1px 2px rgba(0,0,0,0.1), 0px 0px 8px rgba(82,168,236,0.6); -webkit-box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.1), 0 0 8px rgba(82, 168, 236, 0.6); -moz-box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.1), 0 0 8px rgba(82, 168, 236, 0.6); -webkit-transition: box-shadow linear 0.2s; -moz-transition: box-shadow linear 0.2s; -ms-transition: box-shadow linear 0.2s; -o-transition: box-shadow linear 0.2s; transition: box-shadow linear 0.2s;
+}
+input:disabled.text {
+	box-shadow: none; background-color: rgb(246, 246, 246); -webkit-box-shadow: none; -moz-box-shadow: none;
+}
+input:disabled.text:hover {
+	border-width: 1px; border-style: solid; border-color: rgb(153, 153, 153) rgb(225, 225, 225) rgb(225, 225, 225) rgb(153, 153, 153); box-shadow: none; background-color: rgb(246, 246, 246); -webkit-box-shadow: none; -moz-box-shadow: none; -webkit-transition: none; -moz-transition: none; -ms-transition: none; -o-transition: none; transition: none;
+}
+input.captcha{
+	width: 95px;
+}
+.captchaImage{
+	cursor: pointer;
+}
+.left{
+	float: left;
+}
+.right{
+	float: right;
+}
+.hidden:{
+	display: none;
+}
+body{
+	background: url(../images/loginBg.jpg) repeat; width: 100%; height: 100%;
+}
+.title{
+	width: 100%;
+	height: 100px;
+}
+.logo{
+	width: 1200px;
+	height: 162px;
+}
+.main{
+	width: 560px;
+	height:400px;
+	margin-left: auto;
+	margin-right: auto;
+	border:1px solid #ffffff;
+	background:url(../images/loginMainBg.jpg);
+	position: relative;
+}
+.main .main-table{
+	width: 340px;
+	height: 165px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 146px;
+	border-spacing: 0px;
+}
+.main .main-table th{
+	text-align: right;
+	padding-right: 10px;
+	width: 100px;
+}
+.main .tip{
+	margin-left: auto;
+	margin-right: auto;
+	margin-top:40px;
+	min-width:100px;
+	color:#ffffff;
+	font-size:15px;
+	font-weight: bold;
+	text-align: center;
+}
+.loginButton{
+	width: 103px;
+	height: 29px;
+	line-height: 29px;
+	color: #ffffff;
+	font-weight: bold;
+	background:url(../images/loginBtn.png) transparent;
+	border: 0px;
+	padding: 0px;
+	outline: none;
+	cursor: pointer;
+}
+.loginLoading{
+	background:url(../images/loginLoadingBtn.png) transparent;
+}
+.loginButton .word{
+	width: 75px;
+	height: 29px;
+	line-height: 29px;
+	float:left;
+}
+.loginButton .loading{
+	float:left;
+	width: 28px;
+	height: 29px;
+	line-height: 29px;
+	background-color: #ffffff;
+	background-image: url(../images/loading.gif);
+	background-repeat:no-repeat;
+	background-position:center center;
+	text-align:center;
+	filer:alpha(opacity=50);
+	-moz-opacity:0.5;
+	opacity:0.5;
+}
+
+

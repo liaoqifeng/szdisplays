@@ -1,0 +1,139 @@
+body{
+	background: url(../images/ditu.jpg);
+}
+.container{
+	width: 1000px;
+	margin: 0 auto;
+	background-color: #ffffff;
+}
+.container .header{
+	width: 100%;
+	height: 100px;
+	line-height: 100px;
+	background-color: #5c461f;
+}
+.container .header .logo{
+	width: 93px;
+	height: 49px;
+	background: url(../images/logo.png) no-repeat;
+	margin-top: 25px;
+	margin-left: 20px;
+	cursor: pointer;
+}
+.container .header .menu{
+	margin-right: 100px;
+	padding-top: 40px;
+}
+.container .header .menu ul li{
+	float: left;
+	display: block;
+	height: 20px;
+	line-height:20px;
+	font-size: 18px;
+	color: #ffffff;
+	padding-left: 20px;
+	padding-right: 20px;
+	border-right: 1px solid #ffffff;
+	cursor: pointer;
+}
+.container .header .menu ul li a{
+	color:#ffffff;
+}
+.container .header .menu ul li .menu_wrap{
+	display: none;
+	padding-top: 10px;
+}
+.container .header .menu ul li .panel{
+	position: absolute;
+	width: 200px;
+	background-color: #8d7d62;
+	border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	font-size: 14px;
+	display: none;
+	z-index: 100000;
+}
+.container .header .menu ul li .panel_2{
+	left:200px;
+	top:0px;
+}
+
+.container .header .menu ul li .panel dl dd{
+	width: 175px;
+	height: 35px;
+	line-height: 35px;
+	border-bottom: 1px dashed #ffffff;
+	background: url(../images/dot.jpg) no-repeat;
+	background-position: 10px 14px;
+	padding-left: 25px;
+}
+.container .main{
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 10px;
+	color: #8d8d8d;
+	background-color: #ffffff;
+}
+.container .main .title{
+	width: 100%;
+	height: 20px;
+	background: url(../images/line.jpg) repeat-x;
+}
+.container .main .title .label{
+	height: 20px;
+	background-color: #ffffff;
+	padding-right: 5px;
+}
+.container .main .list{
+	width: 100%;
+	height: 300px;
+	margin-top: 10px;
+}
+.container .main .list ul li{
+	float: left;
+	width: 240px;
+	margin-right: 5px;
+	margin-top: 10px;
+	text-align: center;
+	font-size: 14px;
+}
+.container .main .list ul li .img{
+	width: 100%;
+	height: 170px;
+	background-color: #8D8D8D;
+}
+.container .main .image{
+	float: left;
+	margin-top: 10px;
+}
+.container .main .property{
+	float: left;
+	margin-top: 10px;
+}
+.container .main .property ul li{
+	height: 40px;
+	padding-left: 20px;
+}
+.container .main .discription{
+	width: 100%;
+	min-height: 100px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.container .main .same_list{
+	margin-top: 10px;
+	background-color: #ffffff;
+}
+.container .main .same_list li{
+	float: left;
+	width: 187px;
+	height: 124px;
+	margin-right: 11px;
+	padding-bottom:10px;
+	background-color: #ffffff;
+}
+.container .footer{
+	width: 100%;
+	height: 20px;
+}

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<auth>
+	<authorities name="商品管理" order="1">
+		<node name="商品管理" perms="product:manager" value="/back/product/**" url="/back/product/list.shtml"  order="1"/>
+		<node name="商品分类" perms="product:category" value="/back/productCategory/**" url="/back/productCategory/list.shtml" order="2"/>
+		<node name="品牌管理" perms="product:brand" value="/back/brand/**" url="/back/brand/list.shtml" order="3"/>
+		<node name="商品属性" perms="product:property" value="/back/property/**" url="/back/property/list.shtml" order="6"/>
+	</authorities>
+	<authorities name="员工管理" order="3">
+		<node name="员工管理" perms="member:manager" value="/back/member/**" url="/back/member/list.shtml" order="1"/>
+	</authorities>
+	<!-- <authorities name="内容管理" order="4">
+		<node name="文章列表" perms="content:article" value="/back/article/**" url="/back/article/list.shtml" order="1"/>
+		<node name="文章分类" perms="content:category" value="/back/articleCategory/**" url="/back/articleCategory/list.shtml" order="2"/>
+		<node name="标签管理" perms="content:tag" value="/back/tag/**" url="/back/tag/list.shtml" order="3"/>
+	</authorities> -->
+	<authorities name="系统管理" order="6">
+		<node name="管理员管理" perms="system:admin" value="/back/admin/**" url="/back/admin/list.shtml" order="1"/>
+		<node name="角色管理" perms="system:role" value="/back/role/**" url="/back/role/list.shtml" order="2"/>
+	</authorities>
+</auth>
